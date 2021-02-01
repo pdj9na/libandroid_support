@@ -2,6 +2,8 @@
 
 !/include
 !/lib
+!/.vscode
+/.vscode/.changeTime_files
 
 !.gitignore
 !configure.ac
