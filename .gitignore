@@ -1,1 +1,8 @@
 /*
+
+!/include
+!/lib
+
+!.gitignore
+!configure.ac
+!Makefile.am
